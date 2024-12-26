@@ -44,7 +44,7 @@ body{
 }
 
 #butn{
-padding: 1rem 2.5rem;
+padding: .8rem 1.5rem;
 font-size: 2rem;
 border-radius: 1rem;
 background-color: rgb(103, 164, 192);
@@ -61,7 +61,7 @@ ul{
 
 li{
     font-size: 2rem;
-    width: 26rem;
+    width: 15rem;
     padding: 1rem 1rem;
     background-color: #f3f3f2;
     display: flex;
